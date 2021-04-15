@@ -1,6 +1,6 @@
 # Machine-Learning-and-Data-Analytics-based-Operation-for-Smart-Grids
 
-# (Purpose/ Project Objectives)
+# Purpose/ Project Objectives
 
 Smart grids show the potential to make an improvement in the power sector. By leveraging the knowledge of operation in a power system, which includes generation, distribution, consumption and two-way communication, machine learning and data analytics are utilized to improve the efficiency, reliability and reduce operational costs. 
 
@@ -12,7 +12,7 @@ The deliverables in the project includes the creation of a system network, corre
 
 
 
-# (Project Summary)
+# Project Summary
 
 Despite the lack of NTU’s network topology due to security constraints, assumptions were made, and the creation of a system network was successfully carried out. This set-in motion successful power flow within MATLAB, generating the necessary data for the calculation of power losses during transmissions within the network.
 
