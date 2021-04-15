@@ -25,3 +25,6 @@ The goal of forecasting consumption for NTU buildings was partially successful. 
 While the forecasts and power loss results are not integrated to deliver a concluding result within the project, it is general knowledge that periods of high building consumption would result in higher power losses during transmission. The model, albeit not having forecasted data due to time constraints, can be used as a reference upon completion for the scheduling of charging and discharging periods of the batteries implemented, reducing power losses.
 
 The project’s initial goal of optimization and scheduling PV’s to match periods of high consumption were abolished for the reason that the optimal power flow failed to converge, possibly as a result of the utilization of case33BW in MATLAB, which is based on a different network topology as NTU. The plan for the increase in cost effectiveness for consumers through the reduction of power loss was adopted based on a bottom-up data approach. 
+
+
+Done by: Nunes Di Pierri Enrique Alejandro, Lim Chee Quan Kelvin, Yang Ziqin, Tiah Jye Chen, Thniah Zhi Yang Bryan, Chua Ding Zhang
