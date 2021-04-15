@@ -27,5 +27,5 @@ While the forecasts and power loss results are not integrated to deliver a concl
 The project’s initial goal of optimization and scheduling PV’s to match periods of high consumption were abolished for the reason that the optimal power flow failed to converge, possibly as a result of the utilization of case33BW in MATLAB, which is based on a different network topology as NTU. The plan for the increase in cost effectiveness for consumers through the reduction of power loss was adopted based on a bottom-up data approach. 
 
 
-# Done by 
+# Done by :
 Nunes Di Pierri Enrique Alejandro, Lim Chee Quan Kelvin, Yang Ziqin, Tiah Jye Chen, Thniah Zhi Yang Bryan, Chua Ding Zhang
